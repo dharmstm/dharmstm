@@ -1033,7 +1033,7 @@ Transition to full-time penetration testing role at a leading cybersecurity firm
 ---
 
 <p>
-<a href="https://dharmendrastm.github.io/PortfolioWebsite/">
+<a href="https://dharmstm.github.io/PortfolioWebsite/">
 <img src="https://img.shields.io/badge/🌐_Portfolio-dharmendrastm.github.io-00ffcc?style=for-the-badge&labelColor=000000" alt="Portfolio"/>
 </a>
 </p>
