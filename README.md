@@ -11,7 +11,7 @@
 </p>
 
 <!-- SEO Meta Keywords (hidden but crawlable) -->
-<!-- Keywords: Dharmendra Kumar, Penetration Tester, Bug Bounty Hunter, eJPT, Security Researcher, Ethical Hacker, VAPT, OSINT, CTF Player, Web Application Security, Vulnerability Disclosure, NASA Hall of Fame, Delhi India -->
+<!-- Keywords: Dharmendra Kumar, Penetration Tester, Bug Bounty Hunter, eJPT, Security Researcher, Ethical Hacker, VAPT, Dharmstm, dharmstm, dharmendrastm, dharmendragithub, dharmendrahacker, dharmendraethical CTF Player, Web Application Security, Vulnerability Disclosure, NASA Hall of Fame, Delhi India -->
 
 <!-- Certification Badges -->
 <p align="center">
@@ -447,7 +447,7 @@ Topics: Web security, OSINT techniques, tool development, CTF walkthroughs<br>
 </tr>
 <tr>
 <td align="center" width="16%">
-<a href="https://www.youtube.com/@DharmendraCyberHacks" title="YouTube - Dharmendra CyberHacks Tutorials">
+<a href="https://www.youtube.com/@dharmendracyberhacks" title="YouTube - Dharmendra CyberHacks Tutorials">
 <img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white&labelColor=000000"/><br>
 <b>YouTube</b>
 </a>
@@ -497,10 +497,10 @@ All security research is conducted **with authorization**, **responsibly**, **pr
 
 | Timeline | Goal | Description |
 |:---:|:---:|---|
-| **Q1 2025** | AD Red Team Specialist | Active Directory exploitation, Kerberos attacks, domain persistence |
-| **Q2 2025** | OSCP Preparation | Industry-standard penetration testing certification |
-| **Q3 2025** | Tool Suite Release | Advanced recon, vulnerability scanning, exploit frameworks |
-| **Q4 2025** | eWPT Certification | Advanced web application penetration testing |
+| **Q1 2026** | AD Red Team Specialist | Active Directory exploitation, Kerberos attacks, domain persistence |
+| **Q2 2026-2027** | OSCP Preparation | Industry-standard penetration testing certification |
+| **Q3 2026** | Tool Suite Release | Advanced recon, vulnerability scanning, exploit frameworks |
+| **Q4 2026** | eWPT Certification | Advanced web application penetration testing |
 | **2026+** | Full-Time Pentester | Senior security role at a leading cybersecurity firm |
 
 ---
