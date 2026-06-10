@@ -59,22 +59,27 @@
 ## 🎯 About Me — Dharmendra Kumar | Cybersecurity Professional
 
 ```ascii
-┏━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━┓
-┃                                                                          ┃
-┃  🛡️  Certified Junior Penetration Tester (eJPT) with expertise in      ┃
-┃      offensive security, web application security (VAPT), and           ┃
-┃      vulnerability research.                                            ┃
-┃                                                                          ┃
-┃  🎯  Recognized in Bug Bounty Hall of Fame (NASA, Ulta Beauty,          ┃
-┃      Dreamscape Networks) for responsible vulnerability disclosure.      ┃
-┃                                                                          ┃
-┃  🚀  Active CTF player on Hack The Box, TryHackMe & PortSwigger Labs    ┃
-┃      with hands-on experience in real-world security challenges.        ┃
-┃                                                                          ┃
-┃  💡  Passionate about Red Teaming, Network Security, OSINT, and         ┃
-┃      building open-source security tools for the community.             ┃
-┃                                                                          ┃
-┗━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━┛
+💬 “Hello Member”
+Hi, I’m Dharmendra Kumar (also known as dharmstm), a cybersecurity enthusiast, junior penetration tester, and ethical hacker. I am eJPT v2 certified and actively involved in vulnerability assessment and penetration testing (VAPT), with a strong focus on web application security. I continuously sharpen my skills by working on real-world attack scenarios and participating in Capture The Flag (CTF) challenges.
+
+My work and learning journey revolve around identifying security weaknesses, testing defenses, and helping organizations improve their security posture. I have hands-on experience with tools such as Burp Suite, Nmap, Metasploit, OWASP Top 10, and Wireshark, along with proficiency in Python and C for automation and exploit development.
+
+I have also been credited with the following CVEs:
+CVE-2026-30502
+CVE-2026-30503
+
+Security Researcher | Recognized in Multiple Vulnerability Disclosure Programs
+NASA Vulnerability Disclosure Program – Hall of Fame
+Ulta Beauty Security Program – Hall of Fame
+Dreamscape Security Program – Hall of Fame
+
+Recognized for responsibly identifying and disclosing security vulnerabilities through coordinated vulnerability disclosure programs, contributing to improving real-world application security.
+
+Cybersecurity is more than just a career path for me — it’s a passion. As dharmendra, I’m constantly learning, experimenting, and pushing my technical limits to make the digital world safer.
+
+I am deeply passionate about ethical hacking, penetration testing, bug bounty hunting, and continuous learning. I actively participate in CTF platforms like Hack The Box (HTB) and TryHackMe (THM) to strengthen my practical skills and stay updated with modern attack techniques.
+
+I love solving complex security problems, learning new technologies, and collaborating with the cybersecurity community. Let’s connect and work together to build a safer internet. 🔐                                                                                 
 ```
 
 <div align="center">
